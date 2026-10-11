@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Noam</h1>
-<h3 align="center">A robotics coder, i make unity games, and love cyber.</h3>
+<h3 align="center">A robotics programmer, i make unity games and love cyber.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noambh0" alt="noambh0" /></a> </p>
 
